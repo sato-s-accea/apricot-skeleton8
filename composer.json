@@ -1,0 +1,22 @@
+{
+    "name": "y2sunlight/apricot-skeleton",
+    "type": "project",
+    "description": "Skeleton application for Apricot framework library",
+    "keywords": ["php","framework","lightweight","skeleton"],
+    "homepage": "http://y2sunlight.com/ground/doku.php?id=apricot:top",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Yoshihiro Iwata",
+            "email": "github@y2sunlight.com"
+        }
+    ],
+    "require": {
+        "y2sunlight/apricot": "^1.0"
+    },
+    "autoload": {
+        "psr-4" : {
+            "App\\" : "app/"
+        }
+    }
+}
