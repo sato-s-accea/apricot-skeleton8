@@ -8,7 +8,7 @@ By installing this skeleton you can quickly and easily create a new application 
 We recommend using Composer to install Apricot as follows:
 
 ```
-composer create-project y2sunlight/apricot your-app-name
+composer create-project y2sunlight/apricot-skeleton your-app-name
 ```
 
 ## Quick Start
