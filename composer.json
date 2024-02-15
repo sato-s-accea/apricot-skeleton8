@@ -1,5 +1,5 @@
 {
-    "name": "y2sunlight/apricot-skeleton",
+    "name": "y2sunlight/apricot-skeleton8",
     "type": "project",
     "description": "Skeleton application for Apricot framework library",
     "keywords": ["php","framework","lightweight","skeleton"],
@@ -12,7 +12,7 @@
         }
     ],
     "require": {
-        "y2sunlight/apricot": "^1.0"
+        "y2sunlight/apricot8": "^1.0"
     },
     "autoload": {
         "psr-4" : {
